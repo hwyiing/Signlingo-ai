@@ -1,15 +1,3 @@
 # Signlingo-ai
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Signlingo is an app created by our team, Rainer's Rabbids aimed to help people learn about sign language with the aid of AI object detection.  Our problem statement was crafted around the decreasing trend in sign language usage despite the many benefits it brings. Our team aims to combat this trend by boosting inclusivity and awareness regarding the hearing-impaired community. This increases understanding and tolerance towards the hearing-impaired, including those that develop hearing defects later on, which is prevalent in an aging society such as ours.
