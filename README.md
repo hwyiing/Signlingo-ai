@@ -1,6 +1,5 @@
-# aslrabbids
+# Signlingo-ai
 
-A new Flutter project.
 
 ## Getting Started
 
